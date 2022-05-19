@@ -1,0 +1,15 @@
+{
+  "name": "exercice-fonctions",
+  "version": "1.0.0",
+  "description": "série de 49 fonctions JS à coder pour apprendre la syntaxe",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --no-cache ./*"
+  },
+  "keywords": [],
+  "author": "Jérémy B. & Phil B.",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.0"
+  }
+}
